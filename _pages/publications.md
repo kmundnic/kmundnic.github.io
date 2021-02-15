@@ -47,7 +47,6 @@ author_profile: true
  <br>[Multimodal Human and Environmental Sensing forLongitudinal Behavioral Studies in Naturalistic Settings: Framework for Sensor Selection, Deployment, and Management.](https://www.jmir.org/2019/8/e12832/)
  <br><em>J Med Internet Res</em>, 21(8):e12832, Aug 2019.
  <br><sup>∗</sup> <small>denotes equal contribution.</small>
- <b
 
  * <b>Karel Mundnich</b> and Marcos E. Orchard.
   <br>[Early Online Detection of High Volatility Clusters using Particle Filters.](http://repositorio.uchile.cl/bitstream/handle/2250/140316/Early-online-detection-of-high-volatility.pdf)
