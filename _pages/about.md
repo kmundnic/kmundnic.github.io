@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year PhD Candidate at the [Signal Analysis and Interpretation Lab](https://sail.usc.edu/) (SAIL), University of Southern California (USC).
+I'm a final year PhD student at the [Signal Analysis and Interpretation Lab](https://sail.usc.edu/) (SAIL), University of Southern California (USC).
 
 My interests lie broadly in machine learning. During my PhD, my focus has been in human-centered machine learning.
 
