@@ -1,2 +1,6 @@
 _site/
+vendor/
+*.ipynb_checkpoints
+.bundle/
+Gemfile.lock
 
