@@ -94,7 +94,7 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
  * Brandon M. Booth, <b>Karel Mundnich</b>, and Shrikanth Narayanan.
  <br>[Fusing Annotations with Majority Vote Triplet Embeddings.](https://sail.usc.edu/publications/files/p83-booth.pdf)
  <br>In <em>Proceedings of the 2018 on Audio/Visual Emotion Challenge and Workshop, AVEC’18</em>, pages 83–89. ACM, 2018.
- <br><small>Winner of the AVEC GES 2018 sub-challenge.</small>
+ <br><small>Winner of the [AVEC 2018 Gold-standard Emotion sub-challenge](https://sites.google.com/view/avec2018/home).</small>
 
  * Brandon M. Booth, <b>Karel Mundnich</b>, and Shrikanth Narayanan.
  <br>[A Novel Method for Human Bias Correction of Continuous-time Annotations.](https://sail.usc.edu/publications/files/08461645.pdf)
