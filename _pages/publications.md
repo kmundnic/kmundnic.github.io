@@ -22,7 +22,7 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
  * <b>Karel Mundnich</b>, Brandon M. Booth, Michelle L’Hommedieu, Tiantian Feng, Benjamin Girault, Justin L’Hommedieu, Mackenzie Wildman, Sophia Skaaden, Amrutha Nadarajan, Jennifer L. Villatte, Kristina Lerman, Emilio Ferrara, and Shrikanth Narayanan.
  <br>[TILES-2018, a longitudinal behavioral and pyshiologic dataset of hospital workers.](https://doi.org/10.1038/s41597-020-00655-3)
- <br><em>Sci Data</em>, 7(354), 2020
+ <br><em>Sci Data</em>, 7(354), 2020.
  <br>
  [[data]](https://tiles-data.isi.edu/)
  [[code]](https://github.com/usc-sail/tiles-dataset-release)
