@@ -14,7 +14,7 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
 ## Journal Publications
 
- * Vinesh Ravuri, Projna Paromita, Karel Mundnich, Amrutha Nadarajan, Brandon M. Booth, Shrikanth S. Narayanan, and Theodora Chaspari.
+ * Vinesh Ravuri, Projna Paromita, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M. Booth, Shrikanth S. Narayanan, and Theodora Chaspari.
 <br>[Investigating Group-Specific Models of Hospital Workers’ Well-Being: Implications for Algorithmic Bias.](https://doi.org/10.1142/S1793351X20500075)
 <br><em>International Journal of Semantic Computing</em>, 14(4):477-4992, 2020.
 <br>
