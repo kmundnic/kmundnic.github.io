@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/KarelMundnichCV.pdf" width="500" height="375" type="application/pdf">
+<embed src="/files/KarelMundnichCV.pdf" width="50%" height="50%" type="application/pdf">
 
