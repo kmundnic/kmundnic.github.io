@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-For a PDF version, please click [here](https://kmundnic.github.io/files/KarelMundnichCV.pdf).
+For a PDF version of my CV, please click [here](https://kmundnic.github.io/files/KarelMundnichCV.pdf).
 
