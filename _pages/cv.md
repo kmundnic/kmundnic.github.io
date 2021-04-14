@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/KarelMundnichCV.pdf" width="100%" height="750" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/KarelMundnichCV.pdf" width="90%" height="90%" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
