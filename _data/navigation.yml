@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /files/KarelMundnichCV.pdf
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
