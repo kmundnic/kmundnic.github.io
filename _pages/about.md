@@ -13,5 +13,3 @@ I'm a final year PhD student at the [Signal Analysis and Interpretation Lab](htt
 My interests lie broadly in machine learning. During my PhD, my focus has been on human-centered machine learning.
 
 Outside of work, I enjoy backpacking, cycling, skiing, [photography](https://www.500px.com/kmundnic) (mostly street and landscape), and design.
-
-My favorite video on YouTube? Probably [Is Success Luck or Hard Work?](https://www.youtube.com/watch?v=3LopI4YeC4I)
