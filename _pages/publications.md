@@ -14,16 +14,15 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
 ## Journal Publications
 
- * Vinesh Ravuri, Projna Paromita, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M. Booth, Shrikanth S. Narayanan, and Theodora Chaspari.
-<br>[Investigating Group-Specific Models of Hospital Workers’ Well-Being: Implications for Algorithmic Bias.](https://doi.org/10.1142/S1793351X20500075)
-<br><em>International Journal of Semantic Computing</em>, 14(4):477-499, 2020.
-<br>
-[[data]](tiles.isi.edu/)
-
-
  * Arindam Jati, Amrutha Nadarajan, Raghuveer Peri, <b>Karel Mundnich</b>, Tiantian Feng, Benjamin Girault, and Shrikanth Narayanan.
 <br>[Temporal Dynamics of Workplace Acoustic Scenes: Egocentric Analysis and Prediction.](http://sail.usc.edu/publications/files/Jati-TASLP2021.pdf)
 <br><em>IEEE/ACM Transactions on Audio, Speech and Language Processing</em>, 29:756–769, 2021.
+<br>
+[[data]](tiles.isi.edu/)
+
+ * Vinesh Ravuri, Projna Paromita, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M. Booth, Shrikanth S. Narayanan, and Theodora Chaspari.
+<br>[Investigating Group-Specific Models of Hospital Workers’ Well-Being: Implications for Algorithmic Bias.](https://doi.org/10.1142/S1793351X20500075)
+<br><em>International Journal of Semantic Computing</em>, 14(4):477-499, 2020.
 <br>
 [[data]](tiles.isi.edu/)
 
