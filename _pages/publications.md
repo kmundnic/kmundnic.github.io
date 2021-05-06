@@ -41,7 +41,7 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
  [[code]](https://github.com/kmundnic/PRL2019/)
 
  * Brandon M Booth<sup>∗</sup>, <b>Karel Mundnich</b><sup>∗</sup>, Tiantian Feng<sup>∗</sup>, Amrutha Nadarajan, Tiago H. Falk, Jennifer L. Villatte, Emilio Ferrara, and Shrikanth Narayanan.
- <br>[Multimodal Human and Environmental Sensing forLongitudinal Behavioral Studies in Naturalistic Settings: Framework for Sensor Selection, Deployment, and Management.](https://www.jmir.org/2019/8/e12832/)
+ <br>[Multimodal Human and Environmental Sensing for Longitudinal Behavioral Studies in Naturalistic Settings: Framework for Sensor Selection, Deployment, and Management.](https://www.jmir.org/2019/8/e12832/)
  <br><em>J Med Internet Res</em>, 21(8):e12832, Aug 2019.
  <br><sup>∗</sup> <small>denotes equal contribution.</small>
 
