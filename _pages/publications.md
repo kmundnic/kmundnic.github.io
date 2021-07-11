@@ -48,8 +48,7 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
  * <b>Karel Mundnich</b> and Marcos E. Orchard.
   <br>[Early Online Detection of High Volatility Clusters using Particle Filters.](http://repositorio.uchile.cl/bitstream/handle/2250/140316/Early-online-detection-of-high-volatility.pdf)
  <br><em>Expert Systems with Applications</em>, 54:228–240, 2016.
- <!-- <br><small>Resulting paper of my Electrical Engineering thesis at U. de Chile.</small> -->
- <br><small>Resulting paper of my Electrical Engineering thesis at U. de Chile.</small>
+ <br><small>This paper was the results of my Electrical Engineering thesis at U. de Chile.</small>
  <br>
 
  * <b>Karel Mundnich</b>, Marcos E. Orchard, Jorge F. Silva, and Patricio Parada.
