@@ -17,4 +17,4 @@ My interests lie between machine learning and behavior. During my PhD, my focus 
  - The behavior of annotators during the task of labeling subjective constructs (such as those found in psychology or affective computing) and subsequently proposed novel annotation collection as well as annotation fusion methods,
  - The use of wearable and non-wearable sensors to predict affective and behavioral states in a workplace setting.
 
-Outside of work, I enjoy backpacking, cycling, skiing, [photography](https://www.500px.com/kmundnic) (mostly street and landscape), and design.
+Outside of work, I enjoy backpacking, cycling, skiing, and [photography](https://www.500px.com/kmundnic) (mostly street and landscape).
