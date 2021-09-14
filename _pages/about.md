@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently an Applied Scientist at Amazon.
 
-Earlier this year, I completed my PhD in the [Signal Analysis and Interpretation Lab](https://sail.usc.edu/) (SAIL), University of Southern California (USC).
+Earlier this year, I completed my PhD at the [Signal Analysis and Interpretation Lab](https://sail.usc.edu/) (SAIL), University of Southern California (USC).
 
 My interests lie between machine learning and behavior. During my PhD, my focus was on behavioral aspects of human-centered machine learning, where I studied:
 
