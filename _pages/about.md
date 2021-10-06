@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an Applied Scientist at Amazon.
+I'm an Applied Scientist at Amazon.
 
 Earlier this year, I completed my PhD at the [Signal Analysis and Interpretation Lab](https://sail.usc.edu/) (SAIL), University of Southern California (USC).
 
