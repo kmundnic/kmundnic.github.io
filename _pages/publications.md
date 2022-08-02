@@ -14,6 +14,13 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
 ## Journal Publications
 
+ * Joanna Yau, Benjamin Girault, Tiantian Feng, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M. Booth, Kristina Lerman, Emilio Ferrara, and Shrikanth Narayanan.
+ <br>[TILES-2019: A longitudinal physiological and behavioral data set of medical residents in an intensive care unit.]()
+ <br><em>Sci Data</em>, (to appear), 2022.
+ <br>
+ [[data]](https://tiles-data.isi.edu/)
+ [[code]](https://github.com/usc-sail/tiles-dataset-release)
+
  * Arindam Jati, Amrutha Nadarajan, Raghuveer Peri, <b>Karel Mundnich</b>, Tiantian Feng, Benjamin Girault, and Shrikanth Narayanan.
 <br>[Temporal Dynamics of Workplace Acoustic Scenes: Egocentric Analysis and Prediction.](http://sail.usc.edu/publications/files/Jati-TASLP2021.pdf)
 <br><em>IEEE/ACM Transactions on Audio, Speech and Language Processing</em>, 29:756–769, 2021.
