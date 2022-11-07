@@ -14,7 +14,7 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
 ## Journal Publications
 
- * Joanna Yau, Benjamin Girault, Tiantian Feng, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M. Booth, Kristina Lerman, Emilio Ferrara, and Shrikanth Narayanan.
+ * Joanna Yau, Benjamin Girault, Tiantian Feng, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M. Booth, Kristina Lerman, Emilio Ferrara, Eric Hsieh, and Shrikanth Narayanan.
  <br>[TILES-2019: A longitudinal physiological and behavioral data set of medical residents in an intensive care unit.](https://doi.org/10.1038/s41597-022-01636-4)
  <br><em>Sci Data</em>, 9(536), 2022.
  <br>
