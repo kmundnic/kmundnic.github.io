@@ -14,6 +14,12 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
 ## Journal Publications
 
+ * Projna Paromita, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M Booth, Shrikanth S Narayanan, Theodora Chaspari
+ <br>[Modeling inter-individual differences in ambulatory-based multimodal signals via metric learning: a case study of personalized well-being estimation of healthcare workers.](https://doi.org/10.3389/fdgth.2023.1195795)
+<br><em>Frontiers in Digital Health</em> 5 (2023): 1195795.
+<br>
+[[data]](tiles.isi.edu/)
+
  * Joanna Yau, Benjamin Girault, Tiantian Feng, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M. Booth, Kristina Lerman, Emilio Ferrara, Eric Hsieh, and Shrikanth Narayanan.
  <br>[TILES-2019: A longitudinal physiological and behavioral data set of medical residents in an intensive care unit.](https://doi.org/10.1038/s41597-022-01636-4)
  <br><em>Sci Data</em>, 9(536), 2022.
