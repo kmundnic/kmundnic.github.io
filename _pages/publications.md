@@ -76,6 +76,10 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
 ## Conference Publications (Peer-reviewed)
 
+ * Tyler Vuong, <b>Karel Mundnich</b>, Dhanush Bekal, Veera Raghavendra Elluru, Srikanth Ronanki, Sravan Bodapati.
+ <br>[AdaBERT-CTC: Leveraging BERT-CTC for text-only domain adaptation in ASR.](https://www.amazon.science/publications/adabert-ctc-leveraging-bert-ctc-for-text-only-domain-adaptation-in-asr)
+ <br>Accepted at <em>EMNLP 2023</em>.
+
  * Dhanush Bekal, Karthik Gopalakrishnan, <b>Karel Mundnich</b>, Srikanth Ronanki, Sravan Bodapati, Katrin Kirchhoff.
  <br>[A metric-driven approach to conformer layer pruning for efficient ASR inference.](https://www.amazon.science/publications/a-metric-driven-approach-to-conformer-layer-pruning-for-efficient-asr-inference)
  <br>In <em>Proceedings of Interspeech 2023</em> (to appear).
