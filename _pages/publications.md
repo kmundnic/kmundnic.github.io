@@ -81,8 +81,8 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
  <br>Accepted at <em>EMNLP 2023</em>.
 
  * Dhanush Bekal, Karthik Gopalakrishnan, <b>Karel Mundnich</b>, Srikanth Ronanki, Sravan Bodapati, Katrin Kirchhoff.
- <br>[A metric-driven approach to conformer layer pruning for efficient ASR inference.](https://www.amazon.science/publications/a-metric-driven-approach-to-conformer-layer-pruning-for-efficient-asr-inference)
- <br>In <em>Proceedings of Interspeech 2023</em> (to appear).
+ <br>[A metric-driven approach to conformer layer pruning for efficient ASR inference.](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bekal23_interspeech.pdf)
+ <br>In <em>Proceedings of Interspeech 2023</em>, pages 4079–4083.
 
  * <b>Karel Mundnich</b>, Alexandra Fenster, Aparna Khare, and Shiva Sundaram.
  <br>[Audiovisual highlight detection in videos.](https://arxiv.org/pdf/2102.05811.pdf)
