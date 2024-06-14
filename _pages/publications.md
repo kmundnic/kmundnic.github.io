@@ -12,6 +12,70 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
 {% include base_path %}
 
+## Conference Publications (Peer-reviewed)
+
+ * Raghuveer Peri, Sai Muralidhar Jayanthi, Srikanth Ronanki, Anshu Bhatia, <b>Karel Mundnich</b>, Saket Dingliwal, Nilaksh Das, Zejiang Hou, Goeric Huybrechts, Srikanth Vishnubhotla, Daniel Garcia-Romero, Sundararajan Srinivasan, Kyu J. Han, and Katrin Kirchhoff.
+ <br>[SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models.](https://assets.amazon.science/fc/cf/c3f764444549bef2bea6d8e466b1/speechguard-exploring-the-adversarial-robustness-of-multimodal-large-language-models.pdf)
+ <br>Accepted at ACL 2024.
+ 
+ * Tyler Vuong, <b>Karel Mundnich</b>, Dhanush Bekal, Veera Raghavendra Elluru, Srikanth Ronanki, Sravan Bodapati.
+ <br>[AdaBERT-CTC: Leveraging BERT-CTC for text-only domain adaptation in ASR.](https://www.amazon.science/publications/adabert-ctc-leveraging-bert-ctc-for-text-only-domain-adaptation-in-asr)
+ <br>Accepted at <em>EMNLP 2023</em>.
+
+ * Dhanush Bekal, Karthik Gopalakrishnan, <b>Karel Mundnich</b>, Srikanth Ronanki, Sravan Bodapati, Katrin Kirchhoff.
+ <br>[A metric-driven approach to conformer layer pruning for efficient ASR inference.](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bekal23_interspeech.pdf)
+ <br>In <em>Proceedings of Interspeech 2023</em>, pages 4079–4083.
+
+ * <b>Karel Mundnich</b>, Alexandra Fenster, Aparna Khare, and Shiva Sundaram.
+ <br>[Audiovisual highlight detection in videos.](https://arxiv.org/pdf/2102.05811.pdf)
+ <br>In <em>ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021.</em>
+
+ * Vinesh Ravuri, Projna Paromita, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M Booth, Shrikanth S Narayanan, and Theodora Chaspari.
+ <br>[Group-specific models of healthcare workers’ well-being using iterative participant clustering.](https://sail.usc.edu/publications/files/ravuri_transai20.pdf)
+ <br>In <em>2020 Second International Conference on Transdisciplinary AI (TransAI)</em>, pages 115–118. IEEE, 2020.
+ <br>
+ [[data]](https://tiles-data.isi.edu)
+
+ * George Hadjiantonis, Projna Paromita, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M. Booth, Shrikanth Narayanan, and Theodora Chaspari.
+ <br>[Dynamical systems modeling of day-to-day signal-based patterns of emotional self-regulation and stress spillover in highly-demanding health professions.](https://sail.usc.edu/publications/files/DSMEmotionalSelfRegulationHospitalWorkers_EMBC2020.pdf)
+ <br>In <em>2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</em>, pages 284–287. IEEE, 2020.
+ <br>
+ [[data]](https://tiles-data.isi.edu)
+
+ * Jiaxi Wang, <b>Karel Mundnich</b>, Allison T. Knoll, Pat Levitt, and Shrikanth Narayanan.
+ <br>[Bringing in the outliers: A sparse subspace clustering approach to learn a dictionary of mouse ultrasonic vocalizations.](https://sail.usc.edu/publications/files/ICASSP2020____MUPET.pdf)
+ <br>In <em>ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, pages 3432–3436, 2020.
+ <br>
+ [[data]](https://github.com/mvansegbroeck/mupet/wiki/MUPET-wiki)
+ [[code]](http://www.github.com/usc-sail/mupet-subspace-clustering)
+
+ * Timothy Greer, <b>Karel Mundnich</b>, Matthew Sachs, and Shrikanth Narayanan.
+ <br>[The role of annotation fusion methods in the study of human-reported emotion experience during music listening.](https://sail.usc.edu/publications/files/ICASSP_2020_Music_Annotation_Fusion.pdf)
+ <br>In <em>ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, pages 776–780, 2020.
+
+ * <b>Karel Mundnich</b>, Benjamin Girault, and Shrikanth Narayanan.
+ <br>[Bluetooth based indoor localization using triplet embeddings.](https://sail.usc.edu/publications/files/Mundnich-ICASSP2019.pdf)
+ <br>In <em>ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, pages 7570–7574, 2019.
+ <br>
+ [[code]](https://github.com/kmundnic/ICASSP2019)
+
+ * Brandon M. Booth, <b>Karel Mundnich</b>, and Shrikanth Narayanan.
+ <br>[Fusing Annotations with Majority Vote Triplet Embeddings.](https://sail.usc.edu/publications/files/p83-booth.pdf)
+ <br>In <em>Proceedings of the 2018 on Audio/Visual Emotion Challenge and Workshop, AVEC’18</em>, pages 83–89. ACM, 2018.
+ <br><small>Winner of the [AVEC 2018 Gold-standard Emotion sub-challenge](https://sites.google.com/view/avec2018/home).</small>
+
+ * Brandon M. Booth, <b>Karel Mundnich</b>, and Shrikanth Narayanan.
+ <br>[A Novel Method for Human Bias Correction of Continuous-time Annotations.](https://sail.usc.edu/publications/files/08461645.pdf)
+ <br>In 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 3091–3095.
+ <br>
+ [[data]](https://www.github.com/usc-sail/GreenVideoExperiments.jl)
+
+ * <b>Karel Mundnich</b>, Md Nasir, Panayiotis Georgiou, and Shrikanth Narayanan.
+ <br>[Exploiting Intra-annotator Rating Consistency through Copeland’s Method for Estimation of Ground Truth Labels in Couples’ Therapy.](https://sail.usc.edu/publications/files/mundnichinterspeech2017.pdf)
+ <br>In <em>Proceedings of Interspeech 2017</em>, pages 3167–3171, 2017.
+ <br>
+
+
 ## Journal Publications
 
  * Projna Paromita, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M Booth, Shrikanth S Narayanan, Theodora Chaspari
@@ -74,61 +138,3 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
  <br><em>Bulletin of the American Meteorological Society</em>, 94(2):187–198, 2013.
  <br>
 
-## Conference Publications (Peer-reviewed)
-
- * Tyler Vuong, <b>Karel Mundnich</b>, Dhanush Bekal, Veera Raghavendra Elluru, Srikanth Ronanki, Sravan Bodapati.
- <br>[AdaBERT-CTC: Leveraging BERT-CTC for text-only domain adaptation in ASR.](https://www.amazon.science/publications/adabert-ctc-leveraging-bert-ctc-for-text-only-domain-adaptation-in-asr)
- <br>Accepted at <em>EMNLP 2023</em>.
-
- * Dhanush Bekal, Karthik Gopalakrishnan, <b>Karel Mundnich</b>, Srikanth Ronanki, Sravan Bodapati, Katrin Kirchhoff.
- <br>[A metric-driven approach to conformer layer pruning for efficient ASR inference.](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bekal23_interspeech.pdf)
- <br>In <em>Proceedings of Interspeech 2023</em>, pages 4079–4083.
-
- * <b>Karel Mundnich</b>, Alexandra Fenster, Aparna Khare, and Shiva Sundaram.
- <br>[Audiovisual highlight detection in videos.](https://arxiv.org/pdf/2102.05811.pdf)
- <br>In <em>ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021.</em>
-
- * Vinesh Ravuri, Projna Paromita, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M Booth, Shrikanth S Narayanan, and Theodora Chaspari.
- <br>[Group-specific models of healthcare workers’ well-being using iterative participant clustering.](https://sail.usc.edu/publications/files/ravuri_transai20.pdf)
- <br>In <em>2020 Second International Conference on Transdisciplinary AI (TransAI)</em>, pages 115–118. IEEE, 2020.
- <br>
- [[data]](https://tiles-data.isi.edu)
-
- * George Hadjiantonis, Projna Paromita, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M. Booth, Shrikanth Narayanan, and Theodora Chaspari.
- <br>[Dynamical systems modeling of day-to-day signal-based patterns of emotional self-regulation and stress spillover in highly-demanding health professions.](https://sail.usc.edu/publications/files/DSMEmotionalSelfRegulationHospitalWorkers_EMBC2020.pdf)
- <br>In <em>2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</em>, pages 284–287. IEEE, 2020.
- <br>
- [[data]](https://tiles-data.isi.edu)
-
- * Jiaxi Wang, <b>Karel Mundnich</b>, Allison T. Knoll, Pat Levitt, and Shrikanth Narayanan.
- <br>[Bringing in the outliers: A sparse subspace clustering approach to learn a dictionary of mouse ultrasonic vocalizations.](https://sail.usc.edu/publications/files/ICASSP2020____MUPET.pdf)
- <br>In <em>ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, pages 3432–3436, 2020.
- <br>
- [[data]](https://github.com/mvansegbroeck/mupet/wiki/MUPET-wiki)
- [[code]](http://www.github.com/usc-sail/mupet-subspace-clustering)
-
- * Timothy Greer, <b>Karel Mundnich</b>, Matthew Sachs, and Shrikanth Narayanan.
- <br>[The role of annotation fusion methods in the study of human-reported emotion experience during music listening.](https://sail.usc.edu/publications/files/ICASSP_2020_Music_Annotation_Fusion.pdf)
- <br>In <em>ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, pages 776–780, 2020.
-
- * <b>Karel Mundnich</b>, Benjamin Girault, and Shrikanth Narayanan.
- <br>[Bluetooth based indoor localization using triplet embeddings.](https://sail.usc.edu/publications/files/Mundnich-ICASSP2019.pdf)
- <br>In <em>ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, pages 7570–7574, 2019.
- <br>
- [[code]](https://github.com/kmundnic/ICASSP2019)
-
- * Brandon M. Booth, <b>Karel Mundnich</b>, and Shrikanth Narayanan.
- <br>[Fusing Annotations with Majority Vote Triplet Embeddings.](https://sail.usc.edu/publications/files/p83-booth.pdf)
- <br>In <em>Proceedings of the 2018 on Audio/Visual Emotion Challenge and Workshop, AVEC’18</em>, pages 83–89. ACM, 2018.
- <br><small>Winner of the [AVEC 2018 Gold-standard Emotion sub-challenge](https://sites.google.com/view/avec2018/home).</small>
-
- * Brandon M. Booth, <b>Karel Mundnich</b>, and Shrikanth Narayanan.
- <br>[A Novel Method for Human Bias Correction of Continuous-time Annotations.](https://sail.usc.edu/publications/files/08461645.pdf)
- <br>In 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 3091–3095.
- <br>
- [[data]](https://www.github.com/usc-sail/GreenVideoExperiments.jl)
-
- * <b>Karel Mundnich</b>, Md Nasir, Panayiotis Georgiou, and Shrikanth Narayanan.
- <br>[Exploiting Intra-annotator Rating Consistency through Copeland’s Method for Estimation of Ground Truth Labels in Couples’ Therapy.](https://sail.usc.edu/publications/files/mundnichinterspeech2017.pdf)
- <br>In <em>Proceedings of Interspeech 2017</em>, pages 3167–3171, 2017.
- <br>
