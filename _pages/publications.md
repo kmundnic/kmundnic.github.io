@@ -16,11 +16,11 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
  * Raghuveer Peri, Sai Muralidhar Jayanthi, Srikanth Ronanki, Anshu Bhatia, <b>Karel Mundnich</b>, Saket Dingliwal, Nilaksh Das, Zejiang Hou, Goeric Huybrechts, Srikanth Vishnubhotla, Daniel Garcia-Romero, Sundararajan Srinivasan, Kyu J. Han, and Katrin Kirchhoff.
  <br>[SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models.](https://assets.amazon.science/fc/cf/c3f764444549bef2bea6d8e466b1/speechguard-exploring-the-adversarial-robustness-of-multimodal-large-language-models.pdf)
- <br>Accepted at ACL 2024.
+ <br><em>Findings of the Association for Computational Linguistics ACL 2024</em>, pages 10,018–10,035.
  
  * Tyler Vuong, <b>Karel Mundnich</b>, Dhanush Bekal, Veera Raghavendra Elluru, Srikanth Ronanki, Sravan Bodapati.
  <br>[AdaBERT-CTC: Leveraging BERT-CTC for text-only domain adaptation in ASR.](https://aclanthology.org/2023.emnlp-industry.35/)
- <br><em>EMNLP 2023: Industry track</em>.
+ <br><em>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Industry Track</em>.
 
  * Dhanush Bekal, Karthik Gopalakrishnan, <b>Karel Mundnich</b>, Srikanth Ronanki, Sravan Bodapati, Katrin Kirchhoff.
  <br>[A metric-driven approach to conformer layer pruning for efficient ASR inference.](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bekal23_interspeech.pdf)
