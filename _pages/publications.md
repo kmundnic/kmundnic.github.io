@@ -23,7 +23,7 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
  <br><em>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Industry Track</em>.
 
  * Dhanush Bekal, Karthik Gopalakrishnan, <b>Karel Mundnich</b>, Srikanth Ronanki, Sravan Bodapati, Katrin Kirchhoff.
- <br>[A metric-driven approach to conformer layer pruning for efficient ASR inference.](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bekal23_interspeech.pdf)
+ <br>[A metric-driven approach to conformer layer pruning for efficient ASR inference.](https://www.isca-archive.org/interspeech_2023/bekal23_interspeech.pdf)
  <br>In <em>Proceedings of Interspeech 2023</em>, pages 4079–4083.
 
  * <b>Karel Mundnich</b>, Alexandra Fenster, Aparna Khare, and Shiva Sundaram.
@@ -129,7 +129,7 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
  <br>
 
  * <b>Karel Mundnich</b>, Marcos E. Orchard, Jorge F. Silva, and Patricio Parada.
- <br>[Volatility Estimation of Financial Returns using Risk-Sensitive Particle Filters.](https://sic.ici.ro/wp-content/uploads/2013/09/SIC_2013-3-Art6.pdf)
+ <br>[Volatility Estimation of Financial Returns using Risk-Sensitive Particle Filters.](https://sic.ici.ro/documents/526/SIC_2013-3-Art6.pdf)
  <br><em>Studies in Informatics and Control</em>, 22(3):297–306, September 2013.
  <br>
 
