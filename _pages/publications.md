@@ -14,6 +14,10 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
 ## Conference Publications (Peer-reviewed)
 
+ * Do June Min, <b>Karel Mundnich</b>, Andy Lapastora, Erfan Soltanmohammadi, Srikanth Ronanki, Kyu Han.
+ <br>[Speech Retrieval-Augmented Generation without Automatic Speech Recognition.](https://www.arxiv.org/abs/2412.16500)
+ <br><em>Accepted at ICASSP 2025</em>.
+
  * Raghuveer Peri, Sai Muralidhar Jayanthi, Srikanth Ronanki, Anshu Bhatia, <b>Karel Mundnich</b>, Saket Dingliwal, Nilaksh Das, Zejiang Hou, Goeric Huybrechts, Srikanth Vishnubhotla, Daniel Garcia-Romero, Sundararajan Srinivasan, Kyu J. Han, and Katrin Kirchhoff.
  <br>[SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models.](https://assets.amazon.science/fc/cf/c3f764444549bef2bea6d8e466b1/speechguard-exploring-the-adversarial-robustness-of-multimodal-large-language-models.pdf)
  <br><em>Findings of the Association for Computational Linguistics ACL 2024</em>, pages 10,018–10,035.
