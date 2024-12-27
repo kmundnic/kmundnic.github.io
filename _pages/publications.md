@@ -15,7 +15,7 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 ## Conference Publications (Peer-reviewed)
 
  * <b>Karel Mundnich</b>, Xing Niu, Prashant Mathur, Srikanth Ronanki, Brady Houston, Veera Raghavendra Elluru, Nilaksh Das, Zejiang Hou, Goeric Huybrechts, Anshu Bhatia, Daniel Garcia-Romero, Kyu J. Han, Katrin Kirchhoff.
- <br>Zero-Resource Speech Translation and Recognition with LLMs.
+ <br>[Zero-Resource Speech Translation and Recognition with LLMs.](https://arxiv.org/abs/2412.18566)
  <br><em>Accepted at ICASSP 2025</em>.
  
  * Do June Min, <b>Karel Mundnich</b>, Andy Lapastora, Erfan Soltanmohammadi, Srikanth Ronanki, Kyu Han.
