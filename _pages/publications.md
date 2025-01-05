@@ -147,10 +147,10 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
  <br>
 
 ## Pre-prints
-* Nilaksh Das, Saket Dingliwal, Srikanth Ronanki, Rohit Paturi, Zhaocheng Huang, Prashant Mathur, Jie Yuan, Dhanush Bekal, Xing Niu, Sai Muralidhar Jayanthi, Xilai Li, Karel Mundnich, Monica Sunkara, Sundararajan Srinivasan, Kyu J Han, Katrin Kirchhoff.
+* Nilaksh Das, Saket Dingliwal, Srikanth Ronanki, Rohit Paturi, Zhaocheng Huang, Prashant Mathur, Jie Yuan, Dhanush Bekal, Xing Niu, Sai Muralidhar Jayanthi, Xilai Li, <b>Karel Mundnich</b>, Monica Sunkara, Sundararajan Srinivasan, Kyu J Han, Katrin Kirchhoff.
  <br>[SpeechVerse: A Large-scale Generalizable Audio Language Model.](https://arxiv.org/abs/2405.08295)
  <br><em>arXiv preprint arXiv:2405.08295 (2024).</em>
 
-* Arindam Jati, Amrutha Nadarajan, Karel Mundnich, and Shrikanth Narayanan.
+* Arindam Jati, Amrutha Nadarajan, <b>Karel Mundnich</b>, and Shrikanth Narayanan.
  <br>[Characterizing Dynamically Varying Acoustic Scenes from Egocentric Audio Recordings in a Workplace Setting.](https://arxiv.org/abs/1911.03843)
  <br><em>arXiv preprint arXiv:1911.03843v1 (2019).</em>
