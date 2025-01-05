@@ -152,5 +152,5 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
  <br><em>arXiv preprint arXiv:2405.08295 (2024).</em>
 
 * Arindam Jati, Amrutha Nadarajan, Karel Mundnich, and Shrikanth Narayanan.
- <br>[Characterizing Dynamically Varying Acoustic Scenes from Egocentric Audio Recordings in a Workplace Setting](https://arxiv.org/abs/1911.03843)
- <br><em>arXiv preprint arXiv:1911.03843v1.</em>
+ <br>[Characterizing Dynamically Varying Acoustic Scenes from Egocentric Audio Recordings in a Workplace Setting.](https://arxiv.org/abs/1911.03843)
+ <br><em>arXiv preprint arXiv:1911.03843v1 (2019).</em>
