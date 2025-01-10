@@ -14,6 +14,14 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
 ## Conference Publications (Peer-reviewed)
 
+ * <b>Karel Mundnich</b>, Xing Niu, Prashant Mathur, Srikanth Ronanki, Brady Houston, Veera Raghavendra Elluru, Nilaksh Das, Zejiang Hou, Goeric Huybrechts, Anshu Bhatia, Daniel Garcia-Romero, Kyu J. Han, Katrin Kirchhoff.
+ <br>[Zero-Resource Speech Translation and Recognition with LLMs.](https://arxiv.org/abs/2412.18566)
+ <br><em>Accepted at ICASSP 2025</em>.
+ 
+ * Do June Min, <b>Karel Mundnich</b>, Andy Lapastora, Erfan Soltanmohammadi, Srikanth Ronanki, Kyu Han.
+ <br>[Speech Retrieval-Augmented Generation without Automatic Speech Recognition.](https://www.arxiv.org/abs/2412.16500)
+ <br><em>Accepted at ICASSP 2025</em>.
+
  * Raghuveer Peri, Sai Muralidhar Jayanthi, Srikanth Ronanki, Anshu Bhatia, <b>Karel Mundnich</b>, Saket Dingliwal, Nilaksh Das, Zejiang Hou, Goeric Huybrechts, Srikanth Vishnubhotla, Daniel Garcia-Romero, Sundararajan Srinivasan, Kyu J. Han, and Katrin Kirchhoff.
  <br>[SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models.](https://assets.amazon.science/fc/cf/c3f764444549bef2bea6d8e466b1/speechguard-exploring-the-adversarial-robustness-of-multimodal-large-language-models.pdf)
  <br><em>Findings of the Association for Computational Linguistics ACL 2024</em>, pages 10,018–10,035.
@@ -23,7 +31,7 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
  <br><em>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Industry Track</em>.
 
  * Dhanush Bekal, Karthik Gopalakrishnan, <b>Karel Mundnich</b>, Srikanth Ronanki, Sravan Bodapati, Katrin Kirchhoff.
- <br>[A metric-driven approach to conformer layer pruning for efficient ASR inference.](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bekal23_interspeech.pdf)
+ <br>[A metric-driven approach to conformer layer pruning for efficient ASR inference.](https://www.isca-archive.org/interspeech_2023/bekal23_interspeech.pdf)
  <br>In <em>Proceedings of Interspeech 2023</em>, pages 4079–4083.
 
  * <b>Karel Mundnich</b>, Alexandra Fenster, Aparna Khare, and Shiva Sundaram.
@@ -129,7 +137,7 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
  <br>
 
  * <b>Karel Mundnich</b>, Marcos E. Orchard, Jorge F. Silva, and Patricio Parada.
- <br>[Volatility Estimation of Financial Returns using Risk-Sensitive Particle Filters.](https://sic.ici.ro/wp-content/uploads/2013/09/SIC_2013-3-Art6.pdf)
+ <br>[Volatility Estimation of Financial Returns using Risk-Sensitive Particle Filters.](https://sic.ici.ro/documents/526/SIC_2013-3-Art6.pdf)
  <br><em>Studies in Informatics and Control</em>, 22(3):297–306, September 2013.
  <br>
 
@@ -138,3 +146,11 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
  <br><em>Bulletin of the American Meteorological Society</em>, 94(2):187–198, 2013.
  <br>
 
+## Pre-prints
+* Nilaksh Das, Saket Dingliwal, Srikanth Ronanki, Rohit Paturi, Zhaocheng Huang, Prashant Mathur, Jie Yuan, Dhanush Bekal, Xing Niu, Sai Muralidhar Jayanthi, Xilai Li, <b>Karel Mundnich</b>, Monica Sunkara, Sundararajan Srinivasan, Kyu J Han, Katrin Kirchhoff.
+ <br>[SpeechVerse: A Large-scale Generalizable Audio Language Model.](https://arxiv.org/abs/2405.08295)
+ <br><em>arXiv preprint arXiv:2405.08295 (2024).</em>
+
+* Arindam Jati, Amrutha Nadarajan, <b>Karel Mundnich</b>, and Shrikanth Narayanan.
+ <br>[Characterizing Dynamically Varying Acoustic Scenes from Egocentric Audio Recordings in a Workplace Setting.](https://arxiv.org/abs/1911.03843)
+ <br><em>arXiv preprint arXiv:1911.03843v1 (2019).</em>
