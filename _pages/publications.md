@@ -16,11 +16,11 @@ You can also find my articles on my Google Scholar [profile](https://scholar.goo
 
  * <b>Karel Mundnich</b>, Xing Niu, Prashant Mathur, Srikanth Ronanki, Brady Houston, Veera Raghavendra Elluru, Nilaksh Das, Zejiang Hou, Goeric Huybrechts, Anshu Bhatia, Daniel Garcia-Romero, Kyu J. Han, Katrin Kirchhoff.
  <br>[Zero-Resource Speech Translation and Recognition with LLMs.](https://arxiv.org/abs/2412.18566)
- <br><em>Accepted at ICASSP 2025</em>.
+ <br>In <em>ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.</em>
  
  * Do June Min, <b>Karel Mundnich</b>, Andy Lapastora, Erfan Soltanmohammadi, Srikanth Ronanki, Kyu Han.
  <br>[Speech Retrieval-Augmented Generation without Automatic Speech Recognition.](https://www.arxiv.org/abs/2412.16500)
- <br><em>Accepted at ICASSP 2025</em>.
+ <br>In <em>ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.</em>
 
  * Raghuveer Peri, Sai Muralidhar Jayanthi, Srikanth Ronanki, Anshu Bhatia, <b>Karel Mundnich</b>, Saket Dingliwal, Nilaksh Das, Zejiang Hou, Goeric Huybrechts, Srikanth Vishnubhotla, Daniel Garcia-Romero, Sundararajan Srinivasan, Kyu J. Han, and Katrin Kirchhoff.
  <br>[SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models.](https://assets.amazon.science/fc/cf/c3f764444549bef2bea6d8e466b1/speechguard-exploring-the-adversarial-robustness-of-multimodal-large-language-models.pdf)
