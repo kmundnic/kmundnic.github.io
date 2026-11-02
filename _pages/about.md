@@ -23,7 +23,7 @@ Outside of work, I enjoy backpacking, cycling, skiing, and [photography](https:/
 
 <p><strong>Contact:</strong> <span id="email-link">email (turn on JavaScript to see the address)</span><noscript> karel [dot] mundnich [at] gmail [dot] com</noscript></p>
 <script>
-  // The address is stored encoded and assembled in the browser, so scrapers that only read the HTML never see it.
+  /* The address is stored encoded and assembled in the browser, so scrapers that only read the HTML never see it. */
   (function () {
     var user = "a2FyZWwubXVuZG5pY2g=", domain = "Z21haWwuY29t";
     var address = atob(user) + "@" + atob(domain);
