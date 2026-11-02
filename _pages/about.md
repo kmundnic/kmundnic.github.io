@@ -21,15 +21,4 @@ I also review papers for journals and conferences in speech, affective computing
 
 Outside of work, I enjoy backpacking, cycling, skiing, and [photography](https://www.500px.com/kmundnic).
 
-<p><strong>Contact:</strong> <span id="email-link">email (turn on JavaScript to see the address)</span><noscript> karel [dot] mundnich [at] gmail [dot] com</noscript></p>
-<script>
-  /* The address is stored encoded and assembled in the browser, so scrapers that only read the HTML never see it. */
-  (function () {
-    var user = "a2FyZWwubXVuZG5pY2g=", domain = "Z21haWwuY29t";
-    var address = atob(user) + "@" + atob(domain);
-    var link = document.createElement("a");
-    link.href = "mailto:" + address;
-    link.textContent = address;
-    document.getElementById("email-link").replaceChildren(link);
-  })();
-</script>
+<p><strong>Contact:</strong> <img src="/images/contact-email.png" alt="Email address, shown as an image to keep it away from spam bots" style="height: 1.3em; vertical-align: middle;"></p>
