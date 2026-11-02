@@ -11,7 +11,7 @@
  <br>In <em>ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2025.
 
  * Raghuveer Peri, Sai Muralidhar Jayanthi, Srikanth Ronanki, Anshu Bhatia, <b>Karel Mundnich</b>, Saket Dingliwal, Nilaksh Das, Zejiang Hou, Goeric Huybrechts, Srikanth Vishnubhotla, Daniel Garcia-Romero, Sundararajan Srinivasan, Kyu Han, and Katrin Kirchhoff.
- <br>[SpeechGuard: Exploring the Adversarial Robustness of Multi-modal Large Language Models.](https://assets.amazon.science/fc/cf/c3f764444549bef2bea6d8e466b1/speechguard-exploring-the-adversarial-robustness-of-multimodal-large-language-models.pdf)
+ <br>[SpeechGuard: Exploring the Adversarial Robustness of Multi-modal Large Language Models.](https://arxiv.org/abs/2405.08317)
  <br>In <em>Findings of the Association for Computational Linguistics ACL 2024</em>, pages 10018–10035, 2024.
 
  * Tyler Vuong, <b>Karel Mundnich</b>, Dhanush Bekal, Veera Raghavendra Elluru, Srikanth Ronanki, and Sravan Bodapati.
@@ -76,7 +76,7 @@
  <br>[Modeling inter-individual differences in ambulatory-based multimodal signals via metric learning: a case study of personalized well-being estimation of healthcare workers.](https://doi.org/10.3389/fdgth.2023.1195795)
  <br><em>Frontiers in Digital Health</em> 5:1195795, 2023.
  <br>
- [[data]](tiles.isi.edu/)
+ [[data]](https://tiles-data.isi.edu/)
 
  * Joanna Yau, Benjamin Girault, Tiantian Feng, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M. Booth, Kristina Lerman, Emilio Ferrara, Eric Hsieh, and Shrikanth Narayanan.
  <br>[TILES-2019, a longitudinal physiologic and behavioral data set of medical residents in an intensive care unit.](https://doi.org/10.1038/s41597-022-01636-4)
@@ -89,13 +89,13 @@
  <br>[Temporal Dynamics of Workplace Acoustic Scenes: Egocentric Analysis and Prediction.](http://sail.usc.edu/publications/files/Jati-TASLP2021.pdf)
  <br><em>IEEE/ACM Transactions on Audio, Speech and Language Processing</em> 29:756–769, 2021.
  <br>
- [[data]](tiles.isi.edu/)
+ [[data]](https://tiles-data.isi.edu/)
 
  * Vinesh Ravuri, Projna Paromita, <b>Karel Mundnich</b>, Amrutha Nadarajan, Brandon M Booth, Shrikanth S Narayanan, and Theodora Chaspari.
  <br>[Investigating group-specific models of hospital workers’ well-being: Implications for algorithmic bias.](https://doi.org/10.1142/S1793351X20500075)
  <br><em>International Journal of Semantic Computing</em> 14(4):477–499, 2020.
  <br>
- [[data]](tiles.isi.edu/)
+ [[data]](https://tiles-data.isi.edu/)
 
  * <b>Karel Mundnich</b>, Brandon M. Booth, Michelle L'Hommedieu, Tiantian Feng, Benjamin Girault, Justin L'Hommedieu, Mackenzie Wildman, Sophia Skaaden, Amrutha Nadarajan, Jennifer L. Villatte, Kristina Lerman, Emilio Ferrara, and Shrikanth Narayanan.
  <br>[TILES-2018, a longitudinal physiologic and behavioral data set of hospital workers.](https://doi.org/10.1038/s41597-020-00655-3)
@@ -105,7 +105,7 @@
  [[code]](https://github.com/usc-sail/tiles-dataset-release)
 
  * <b>Karel Mundnich</b>, Brandon M. Booth, Benjamin Girault, and Shrikanth Narayanan.
- <br>[Generating Labels for Regression of Subjective Constructs using Triplet Embeddings.](https://sail.usc.edu/publications/files/1-s2.0-S0167865519302752-main%20(1)
+ <br>[Generating Labels for Regression of Subjective Constructs using Triplet Embeddings.](https://sail.usc.edu/publications/files/1-s2.0-S0167865519302752-main%20%281%29.pdf)
  <br><em>Pattern Recognition Letters</em> 128:385–392, 2019.
  <br>
  [[data]](https://github.com/usc-sail/GreenVideoExperiments.jl/)
