@@ -8,13 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Applied Scientist at Amazon.
+I'm an Applied Scientist III (Senior) at Amazon AGI, where I'm the technical lead for multi-stage LLM post-training recipes (SFT, DPO, and RL) and the evaluation work around them.
+I completed my Ph.D. in Electrical Engineering at the [Signal Analysis and Interpretation Lab](https://sail.usc.edu/) (SAIL) at the University of Southern California (USC), advised by [Shri Narayanan](https://sail.usc.edu/people/shri.html).
 
-I completed my PhD at the [Signal Analysis and Interpretation Lab](https://sail.usc.edu/) (SAIL), University of Southern California (USC).
+My research connects machine learning and human behavior:
 
-My interests lie between machine learning and behavior. During my PhD, my focus was on behavioral aspects of human-centered machine learning, where I studied:
+ - **Speech-language models.** I co-developed [SpeechVerse](https://arxiv.org/abs/2405.08295), a multi-task audio-language model, first-authored [zero-resource speech translation and recognition with LLMs](https://arxiv.org/abs/2412.18566), and worked on the adversarial robustness of speech LLMs ([SpeechGuard](https://arxiv.org/abs/2405.08317)).
+ - **Learning from subjective annotations.** I developed a method that turns annotators' comparisons into a single label using triplet embeddings, which won the AVEC 2018 gold-standard emotion sub-challenge. The code is open source: [TripletEmbeddings.jl](https://github.com/kmundnic/TripletEmbeddings.jl).
+ - **Health and behavior from wearable sensors.** I designed and ran the [TILES](https://tiles-data.isi.edu) studies of hospital workers and ICU residents with off-the-shelf sensors. Other labs have reused the open data sets.
 
- - The behavior of annotators during the task of labeling subjective constructs (such as those found in psychology or affective computing) and subsequently proposed novel annotation collection and annotation fusion methods,
- - The use of wearable and non-wearable sensors to predict affective and behavioral states in a workplace setting.
+I also review papers for journals and conferences in speech, affective computing, and machine learning. You can find my work on the [publications](/publications/) page, and a short version of my [CV](/cv/).
 
 Outside of work, I enjoy backpacking, cycling, skiing, and [photography](https://www.500px.com/kmundnic).
+
+<p><strong>Contact:</strong> <span id="email-link">email (turn on JavaScript to see the address)</span><noscript> karel [dot] mundnich [at] gmail [dot] com</noscript></p>
+<script>
+  // The address is stored encoded and assembled in the browser, so scrapers that only read the HTML never see it.
+  (function () {
+    var user = "a2FyZWwubXVuZG5pY2g=", domain = "Z21haWwuY29t";
+    var address = atob(user) + "@" + atob(domain);
+    var link = document.createElement("a");
+    link.href = "mailto:" + address;
+    link.textContent = address;
+    document.getElementById("email-link").replaceChildren(link);
+  })();
+</script>
