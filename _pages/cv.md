@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-For a PDF version of my CV, please click [here](https://kmundnic.github.io/files/KarelMundnichCV.pdf).
+For a short PDF version of my CV, please click [here](https://kmundnic.github.io/files/KarelMundnichCV.pdf). A full CV is available upon request.
 
