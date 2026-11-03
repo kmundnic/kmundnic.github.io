@@ -20,5 +20,3 @@ My research connects machine learning and human behavior:
 I also review papers for journals and conferences in speech, affective computing, and machine learning. You can find my work on the [publications](/publications/) page, and a short version of my [CV](/cv/).
 
 Outside of work, I enjoy backpacking, cycling, skiing, and [photography](https://www.500px.com/kmundnic).
-
-<p><strong>Contact:</strong> <img src="/images/contact-email.png" alt="Email address, shown as an image to keep it away from spam bots" style="height: 1.3em; vertical-align: middle;"></p>
